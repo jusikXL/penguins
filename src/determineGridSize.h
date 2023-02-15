@@ -1,0 +1,1 @@
+void determineGridSize(int numberOfPlayers, int numberOfPenguins, int *totalNumberOfPenguins, int *gridSize);

@@ -1,0 +1,1 @@
+void printPenguinsArray(struct Penguins * penguinsArrayPointer, int numberOfPlayers, int numberOfPenguins);

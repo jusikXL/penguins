@@ -1,0 +1,1 @@
+int choosePenguin(struct Players *playersArrayPointer, struct Penguins * penguinsArrayPointer, int numberOfPenguins, int *chosenPenguin, int j,int *grid, int gridSize, int phase);

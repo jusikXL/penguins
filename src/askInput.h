@@ -1,0 +1,1 @@
+void askInput(int *numberOfPlayers, int *numberOfPenguins);

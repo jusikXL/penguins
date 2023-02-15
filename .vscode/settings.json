@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "checkinput.h": "c",
+        "stdio.h": "c",
+        "generatewindow.h": "c",
+        "windows.h": "c",
+        "time.h": "c",
+        "math.h": "c",
+        "determinearraysize.h": "c",
+        "checkgeneralplacementability.h": "c",
+        "determinegridsize.h": "c",
+        "printpenguinsarray.h": "c",
+        "printgrid.h": "c",
+        "placepenguins.h": "c",
+        "structures.h": "c",
+        "askinput.h": "c",
+        "printscore.h": "c",
+        "printplayerpenguins.h": "c",
+        "choosepenguin.h": "c",
+        "typeinfo": "c",
+        "movepenguin.h": "c",
+        "askfornames.h": "c",
+        "checkmovepenguin.h": "c",
+        "checkplacepenguins.h": "c",
+        "checknumber.h": "c",
+        "checkscanf.h": "c",
+        "type_traits": "c",
+        "checkmovableplace.h": "c",
+        "checkpenguinmovable.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

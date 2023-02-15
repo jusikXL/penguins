@@ -1,0 +1,1 @@
+void decideWinner (struct Players *playersArrayPointer, int numberOfPlayers);

@@ -1,0 +1,1 @@
+int checkGeneralPlacementAbility(int *grid, int arraySize, int totalNumberOfPenguins);

@@ -1,0 +1,1 @@
+int checkPenguinMovable(struct Penguins * penguinsArrayPointer, int numberOfPenguins, int * grid, int gridSize, int *chosenPenguin,int *x,int *y,int j);

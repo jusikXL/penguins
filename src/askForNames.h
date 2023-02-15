@@ -1,0 +1,1 @@
+void askForNames(struct Players *playersArrayPointer, int numberOfPlayers);

@@ -1,0 +1,1 @@
+int endGame(struct Players *playersArrayPointer,int numberOfPlayers,int endnumber,int blockedPlayer);

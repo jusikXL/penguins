@@ -1,0 +1,1 @@
+void placePenguins(struct Penguins * penguinsArrayPointer, int numberOfPlayers, int numberOfPenguins, int * grid, int gridSize, struct Players *playersArrayPointer);
